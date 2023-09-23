@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="ccwc",
-    version="1.0",
+    version="0.1.0",
     py_modules=['ccwc'],
     install_requires=[
         "Click",

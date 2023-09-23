@@ -1,0 +1,2 @@
+-e git+https://github.com/HoangLong248/CodingChallenges.git@e4012da6b09d2d3c33180cdca0c93d62ded8505c#egg=ccwc&subdirectory=wc_tool
+click==8.1.7
