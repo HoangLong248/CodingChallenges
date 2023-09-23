@@ -1,5 +1,4 @@
 import click
-import os
 import sys
 
 def get_size_of_file(fin):
