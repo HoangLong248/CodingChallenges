@@ -3,4 +3,5 @@
 ```
 pip install -r requirements.txt
 pip install --editable .
+ccwc --help
 ```
